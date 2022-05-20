@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbadTech
 - 👀 I’m interested in collaboration with developers
-- 🌱 I’m currently learning IT Recruiting and very much interested in learning from All stack Developers 
+- 🌱 I’m currently learning technology stack and very much interested in learning from All stack Developers 
 - 💞️ I’m looking to collaborate on creating new postions and new roles
 - 📫 How to reach me: job@abad.tj, 
 
